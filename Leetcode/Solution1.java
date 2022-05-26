@@ -1,3 +1,7 @@
+
+/**
+ * Sonu Kumar (https://github.com/SonuKumar81800)
+ */
 import java.util.Arrays;
 
 public class Solution1 {

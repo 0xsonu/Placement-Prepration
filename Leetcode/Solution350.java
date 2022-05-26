@@ -1,3 +1,7 @@
+
+/**
+ * Sonu Kumar (https://github.com/SonuKumar81800)
+ */
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -10,7 +14,7 @@ public class Solution350 {
   }
 
   public static int[] intersect(int[] nums1, int[] nums2) {
-    ArrayList<Integer> arrayList = new ArrayList();
+    ArrayList<Integer> arrayList = new ArrayList<>();
     Arrays.sort(nums1);
     Arrays.sort(nums2);
     int i = 0;
