@@ -1,3 +1,5 @@
+import Utils.ListNode;
+
 /**
  * Sonu Kumar (https://github.com/SonuKumar81800)
  */
@@ -20,20 +22,5 @@ public class Solution141 {
         return true;
     }
     return false;
-  }
-}
-
-class ListNode {
-  int val;
-  ListNode next;
-
-  ListNode(int x) {
-    this.val = x;
-    this.next = null;
-  }
-
-  ListNode(int x, ListNode node) {
-    this.val = x;
-    this.next = node;
   }
 }
