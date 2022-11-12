@@ -1,7 +1,7 @@
+
 /**
  * Sonu Kumar (https://github.com/SonuKumar81800)
  */
-package sonuk.algo;
 
 import java.util.Scanner;
 
